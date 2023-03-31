@@ -1,9 +1,10 @@
 # Gerador de PDF com PHP 📑
 
-## 🔰 | Integrantes
+  Integrante:
+  
+  Luciana Silva de Souza
 
--   Rafael Henrique 👨🏽‍💻
--   Erika Souza 👩🏻‍💻
+
 
 ## 🔖 | Bibliotecas
 
